@@ -1,7 +1,6 @@
 
 ### TPP table
 
-{width="wide"}
 | # | Transformation               | Start code         | End code                                 |
 | -- | --------------------------- | -------------------| -----------------------------------------|
 | 1  | {} -> nil                   | {}                 | [return] nil                             |
